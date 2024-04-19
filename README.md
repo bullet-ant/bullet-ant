@@ -1,5 +1,4 @@
-### Don't have a good day,
-### Have a great day! 👋
+### Don't have a good day, have a great day! 👋
 
 <!--
 **bullet-ant/bullet-ant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
