@@ -1,5 +1,4 @@
 > Don't have a good day, have a great day! 👋
-> - Blue Shirt Guy
 
 <!--
 **bullet-ant/bullet-ant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
